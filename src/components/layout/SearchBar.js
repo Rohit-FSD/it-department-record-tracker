@@ -39,3 +39,4 @@ SearchBar.propTypes = {
 
 //1st param what we are bringing from state , 2nd param action
 export default connect(null, { searchLogs })(SearchBar);
+

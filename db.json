@@ -2,10 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "not fixed 002 harddrive",
+      "message": "fixed 002 harddrive",
       "attention": false,
-      "tech": "Jhon Doe",
-      "date": "2020-09-01T10:36:55.275Z"
+      "tech": "Sam Smith",
+      "date": "2020-10-18T02:51:14.560Z"
+    },
+    {
+      "id": 2,
+      "message": "fixed 002 harddrive ",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-10-18T02:51:17.371Z"
     }
   ],
   "techs": [
